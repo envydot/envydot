@@ -84,24 +84,6 @@ My goal is not just to write code — it's to build systems that are **useful, e
 
 ---
 
-## 🚀 Featured Creations
-
-<details open>
-  <summary><strong>✨ Click to explore my projects</strong></summary>
-
-| # | Project | Purpose | Tech |
-|---|---------|---------|------|
-| 1️⃣ | **Virtual Drawing Board** | Draw in the air with hand tracking | OpenCV, MediaPipe, NumPy |
-| 2️⃣ | **Gesture Volume Control** | Real-time audio control via gestures | Python, pycaw, Computer Vision |
-| 3️⃣ | **PPT Gesture Controller** | Presentation control with hand gestures | PyAutoGUI, MediaPipe |
-| 4️⃣ | **Drowsiness & Face Alert** | Safety detection system | Face Mesh, Real-time CV |
-| 5️⃣ | **Risk Analyzer Dashboard** | Data-driven risk analytics | Streamlit, Python |
-| 6️⃣ | **Automation Scripts** | Workflow efficiency tools | Python Automation |
-
-</details>
-
----
-
 ## 🎨 What I'm Passionate About
 
 ```python
