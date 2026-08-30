@@ -1,7 +1,7 @@
 # Hi, I'm EnvyDot 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Computer+Vision+Engineer;Automation+Builder;AI+%26+ML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+ML+Explorer" alt="Typing SVG" />
 </p>
 
 I’m Biswo Prakash Dash, a Computer Engineering student focused on building practical, real-world solutions using Python, computer vision, and automation.
