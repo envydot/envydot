@@ -1,7 +1,7 @@
 # 🔧 Hi, I'm EnvyDot 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=🎯+Computer+Vision+Engineer;🐍+Python+Developer;⚙️+Automation+Builder;🤖+AI+%26+ML+Explorer" alt="Typing SVG" />
+  <h2>🎯 Computer Vision Engineer | 🐍 Python Developer | ⚙️ Automation Builder | 🤖 AI/ML Explorer</h2>
 </p>
 
 <p align="center">
