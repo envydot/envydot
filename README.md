@@ -93,7 +93,7 @@ These projects reflect my interest in making technology practical and time-savin
 
 ## Connect
 
-- 🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link)
+- 🌐 Portfolio: [Live Portfolio](https://envydot.github.io/envydot/)
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 📧 Email: your.email@example.com
 

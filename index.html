@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="EnvyDot | Computer Vision Engineer and Python Developer building real-world AI and automation solutions."
+    />
+    <title>EnvyDot | Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Orbitron:wght@500;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav container">
+        <a href="#home" class="brand">EnvyDot</a>
+        <button class="nav-toggle" aria-label="Toggle menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <div class="nav-links">
+          <a href="#about">About</a>
+          <a href="#projects">Projects</a>
+          <a href="#skills">Skills</a>
+          <a href="#contact">Contact</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section id="home" class="hero container">
+        <div class="hero-content">
+          <p class="eyebrow">Computer Vision • Python • Automation</p>
+          <h1>BUILDING SYSTEMS</h1>
+          <p class="lead">Practical solutions for real-world problems</p>
+
+          <div class="cta-row">
+            <a class="primary-btn" href="#projects">View Projects</a>
+            <a class="secondary-btn" href="#contact">Let’s Connect</a>
+          </div>
+
+          <ul class="mini-stats">
+            <li><strong>5+</strong><span>Core Projects</span></li>
+            <li><strong>Python</strong><span>Primary Stack</span></li>
+            <li><strong>CV</strong><span>OpenCV + MediaPipe</span></li>
+          </ul>
+        </div>
+
+        <div class="hero-visual">
+          <div class="card glass-card">
+            <span class="badge">Currently exploring</span>
+            <h3>Real-time Computer Vision</h3>
+            <div class="signal-bars">
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+            <div class="code-box">
+              <span class="tag">Python</span>
+              <span class="tag">OpenCV</span>
+              <span class="tag">MediaPipe</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="section">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">About me</p>
+            <h2>Turning camera input into useful, human-centered software.</h2>
+          </div>
+
+          <div class="about-grid">
+            <div class="about-text">
+              <p>
+                I build tools that make interaction smarter, safer, and more
+                efficient. My work sits at the intersection of computer vision,
+                automation, and problem-solving through code.
+              </p>
+              <p>
+                From gesture-based controls to real-time safety monitoring, I love
+                creating projects that go beyond demos and serve a real purpose.
+              </p>
+            </div>
+            <div class="about-points">
+              <div>
+                <strong>Why I build</strong>
+                <p>To solve meaningful problems with technology.</p>
+              </div>
+              <div>
+                <strong>What I focus on</strong>
+                <p>Computer vision, Python workflows, and AI-assisted tools.</p>
+              </div>
+              <div>
+                <strong>What I aim for</strong>
+                <p>Clean, useful, scalable systems that feel intuitive.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="projects" class="section alt">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Featured work</p>
+            <h2>Projects designed for real impact.</h2>
+          </div>
+
+          <div class="project-grid">
+            <article class="project-card">
+              <div class="project-header">
+                <span class="dot"></span>
+                <h3>Virtual Drawing Board</h3>
+              </div>
+              <p>
+                A gesture-controlled drawing system where users can sketch in the
+                air with hand-tracking, making interaction feel natural and
+                touchless.
+              </p>
+              <div class="tags">
+                <span>OpenCV</span>
+                <span>MediaPipe</span>
+                <span>NumPy</span>
+              </div>
+            </article>
+
+            <article class="project-card">
+              <div class="project-header">
+                <span class="dot"></span>
+                <h3>Gesture Volume Control</h3>
+              </div>
+              <p>
+                A real-time sound control tool that adjusts system volume using
+                pinch gestures and hand distance detection for touchless control.
+              </p>
+              <div class="tags">
+                <span>Python</span>
+                <span>pycaw</span>
+                <span>CV</span>
+              </div>
+            </article>
+
+            <article class="project-card">
+              <div class="project-header">
+                <span class="dot"></span>
+                <h3>PPT Gesture Controller</h3>
+              </div>
+              <p>
+                Presentation control with swipe and pinch gestures to navigate
+                slides and zoom without touching the laptop, improving flow while
+                presenting.
+              </p>
+              <div class="tags">
+                <span>PyAutoGUI</span>
+                <span>MediaPipe</span>
+                <span>Automation</span>
+              </div>
+            </article>
+
+            <article class="project-card">
+              <div class="project-header">
+                <span class="dot"></span>
+                <h3>Drowsiness & Face Cover Alert</h3>
+              </div>
+              <p>
+                A safety-focused alert system that detects drowsiness and face
+                covering using visual indicators to improve attention monitoring.
+              </p>
+              <div class="tags">
+                <span>Face Mesh</span>
+                <span>Safety</span>
+                <span>Real-time</span>
+              </div>
+            </article>
+
+            <article class="project-card">
+              <div class="project-header">
+                <span class="dot"></span>
+                <h3>Risk Analyzer Dashboard</h3>
+              </div>
+              <p>
+                An interactive dashboard built to present insights and patterns in a
+                more understandable and decision-friendly way using data-driven UI.
+              </p>
+              <div class="tags">
+                <span>Streamlit</span>
+                <span>Python</span>
+                <span>Analytics</span>
+              </div>
+            </article>
+
+            <article class="project-card">
+              <div class="project-header">
+                <span class="dot"></span>
+                <h3>Automation Scripts</h3>
+              </div>
+              <p>
+                A series of workflow-focused tools that automate repetitive tasks to
+                save time and improve everyday productivity.
+              </p>
+              <div class="tags">
+                <span>Python</span>
+                <span>Productivity</span>
+                <span>Workflows</span>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="skills" class="section">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">Tech stack</p>
+            <h2>Tools I use to build and ship ideas.</h2>
+          </div>
+
+          <div class="skills-wrap">
+            <div class="skill-group">
+              <h3>Languages</h3>
+              <div class="chips">
+                <span>Python</span>
+                <span>C++</span>
+                <span>SQL</span>
+                <span>JavaScript</span>
+              </div>
+            </div>
+
+            <div class="skill-group">
+              <h3>Computer Vision</h3>
+              <div class="chips">
+                <span>OpenCV</span>
+                <span>MediaPipe</span>
+                <span>NumPy</span>
+                <span>Face Mesh</span>
+              </div>
+            </div>
+
+            <div class="skill-group">
+              <h3>Automation / Web</h3>
+              <div class="chips">
+                <span>PyAutoGUI</span>
+                <span>Streamlit</span>
+                <span>Flask</span>
+                <span>Git</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section alt">
+        <div class="container">
+          <div class="section-heading">
+            <p class="eyebrow">What I care about</p>
+            <h2>Practical innovation with real user value.</h2>
+          </div>
+
+          <div class="value-grid">
+            <div class="value-card">
+              <h3>Real-time systems</h3>
+              <p>Building responsive solutions that work in live conditions.</p>
+            </div>
+            <div class="value-card">
+              <h3>Accessible experiences</h3>
+              <p>Using technology to create control and convenience for people.</p>
+            </div>
+            <div class="value-card">
+              <h3>Clean implementation</h3>
+              <p>Writing understandable code that solves problems efficiently.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="section contact-section">
+        <div class="container contact-box">
+          <div>
+            <p class="eyebrow">Let’s connect</p>
+            <h2>Open to internships, collaborations, and meaningful projects.</h2>
+          </div>
+          <div class="contact-links">
+            <a href="https://your-portfolio-link" target="_blank" rel="noreferrer">Portfolio</a>
+            <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a href="mailto:your.email@example.com">Email</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>© <span id="year"></span> EnvyDot</p>
+        <p>Computer Vision • Python • Automation</p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
