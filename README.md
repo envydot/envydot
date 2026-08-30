@@ -138,11 +138,6 @@ my_interests = {
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+and+collaborate;Happy+Coding!" alt="Footer" />
-</p>
-
 ---
 
 <p align="center">
