@@ -1,7 +1,7 @@
 # 🔧 Hi, I'm EnvyDot 👋
 
 <p align="center">
-  <h2>🎯 Computer Vision Engineer | 🐍 Python Developer | ⚙️ Automation Builder | 🤖 AI/ML Explorer</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Computer+Vision+Engineer;Python+Developer;Automation+Builder;AI+ML+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -84,6 +84,14 @@ My goal is not just to write code — it's to build systems that are **useful, e
 
 ---
 
+## 🎯 Current Status
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00C2FF&center=true&vCenter=true&width=500&lines=Learning+AI+%26+ML;Building+Real-World+Solutions;Open+to+Collaborations" alt="Status" />
+</p>
+
+---
+
 ## 🎨 What I'm Passionate About
 
 ```python
@@ -129,8 +137,10 @@ my_interests = {
   <em>Let's build something great together!</em>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+and+collaborate;Happy+Coding!" alt="Footer" />
 </p>
 
 ---
