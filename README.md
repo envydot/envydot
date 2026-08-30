@@ -95,6 +95,6 @@ These projects reflect my interest in making technology practical and time-savin
 
 - 🌐 Portfolio: [Live Portfolio](https://envydot.github.io/envydot/)
 - 💼 LinkedIn: [linkedin.com/in/biswoprakashdash](https://www.linkedin.com/in/biswoprakashdash/)
-- 📧 Email: your.email@example.com
+- 📧 Email: rupbiswo@gmail.com
 
 I’m open to internships, collaborations, and opportunities where I can build meaningful technology with real impact.
