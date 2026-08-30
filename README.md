@@ -1,7 +1,7 @@
 # 🔧 Hi, I'm EnvyDot 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=🎯+Computer+Vision+Engineer;🐍+Python+Developer;⚙️+Automation+Builder;🤖+AI+%26+ML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Vision+Engineer;Python+Developer;Automation+Builder;AI+ML+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -106,8 +106,8 @@ my_interests = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=envydot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=envydot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=envydot&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=envydot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -133,10 +133,6 @@ my_interests = {
 <p align="center">
   <em>🎯 Open to internships, collaborations, and meaningful projects</em><br>
   <em>Let's build something great together!</em>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 </p>
 
 ---
