@@ -72,6 +72,18 @@ My goal is not just to write code — it's to build systems that are **useful, e
 
 ---
 
+## 🚀 All My Repositories
+
+| Repository | Description | Link |
+|---|---|---|
+| **envydot** | GitHub profile README | [View](https://github.com/envydot/envydot) |
+| **AI-BEST-CHATBOT** | AI-powered chatbot project | [View](https://github.com/envydot/AI-BEST-CHATBOT) |
+| **PROJECT_CAM** | Computer vision camera project | [View](https://github.com/envydot/PROJECT_CAM) |
+| **THEEM-BOT** | Bot automation project | [View](https://github.com/envydot/THEEM-BOT) |
+| **mini_codes** | Collection of utility scripts | [View](https://github.com/envydot/mini_codes) |
+
+---
+
 ## 🚀 Featured Creations
 
 <details open>
