@@ -139,9 +139,3 @@ my_interests = {
 
 ---
 ---
-
-<p align="center">
-  <a href="https://github.com/envydot">
-    <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repo-Click%20Here-yellow?style=flat-square" />
-  </a>
-</p>
