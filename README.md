@@ -1,113 +1,88 @@
-# 🔧 Hi, I'm EnvyDot 👋
+# Hi, I'm EnvyDot 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=🎯+Computer+Vision+Engineer;🐍+Python+Developer;⚙️+Automation+Builder;🤖+AI+%26+ML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+ML+Explorer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <strong>Building practical AI systems that solve real-world problems</strong><br>
-  <em>Real-time Computer Vision • Python Automation • AI-Driven Tools</em>
-</p>
+I’m Biswo Prakash Dash, a Computer Engineering student focused on building practical, real-world solutions using Python, computer vision, and automation.
 
-<p align="center">
-  <a href="https://github.com/envydot">
-    <img src="https://img.shields.io/badge/GitHub-envydot-white?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/biswoprakashdash/">
-    <img src="https://img.shields.io/badge/LinkedIn-Biswo%20Prakash%20Dash-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rupbiswo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rupbiswo@gmail.com-FF6B6B?style=flat-square&logo=gmail" alt="Email" />
-  </a>
-</p>
+I build software to make interaction smarter, work faster, and systems safer. My projects are driven by a simple question: how can technology solve a real human problem?
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=envydot&label=Profile+Views&color=00C2FF&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/envydot?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
 
-## 🎯 Why I Build
+## Why I Build
 
 I create projects that combine logic, perception, and usability to improve daily experiences.
 
-<table>
-  <tr>
-    <td><strong>🔍 Computer Vision</strong><br>Making systems understand human actions</td>
-    <td><strong>⚙️ Automation</strong><br>Reducing repetitive digital work</td>
-  </tr>
-  <tr>
-    <td><strong>🤖 AI-Driven Tools</strong><br>Simplifying decision-making</td>
-    <td><strong>🛡️ Safety Solutions</strong><br>Protecting people in real time</td>
-  </tr>
-</table>
+- Computer vision to make systems understand human actions
+- Automation to reduce repetitive digital work
+- AI-driven tools to simplify decision-making
+- Safety-focused solutions to protect people in real time
 
-My goal is not just to write code — it's to build systems that are **useful, efficient, and meaningful**.
+My goal is not just to write code — it’s to build systems that are useful, efficient, and meaningful.
 
 ---
 
-## 💻 Core Stack
+## Core Stack
+
+**Languages:** Python • C++ • SQL • JavaScript  
+**Computer Vision:** OpenCV • MediaPipe • NumPy  
+**Automation & Web:** PyAutoGUI • Streamlit • Flask • Git  
+**Learning:** AI/ML, deployment, analytics, intelligent interfaces
+
+---
+
+## Featured Creations
+
+### 1. Virtual Drawing Board
+A gesture-based drawing system that lets users draw in the air using hand tracking.  
+I built this to explore how computer vision can replace traditional input devices and create more natural human-computer interaction.
+
+### 2. Gesture Volume Control
+A real-time audio control system where hand gestures adjust system volume.  
+This project was created to show how vision can be used for touchless control in everyday devices and accessibility-focused interfaces.
+
+### 3. PPT Gesture Controller
+A presentation controller that lets users change slides and zoom using gestures.  
+I made this to make presentations more fluid, hands-free, and engaging without needing constant physical interaction with the laptop.
+
+### 4. Drowsiness & Face Cover Alert System
+A safety detection system that identifies tiredness and face coverage using visual signals.  
+This was built to address real-world safety concerns, especially in environments where periodic attention and compliance matter.
+
+### 5. Risk Analyzer Dashboard
+An interactive dashboard for analyzing risk-related patterns using data-driven logic.  
+I built it to transform raw information into insight and present it in a clear, understandable format for decision-making.
+
+### 6. Automation & Utility Scripts
+A set of Python-based tools to automate repetitive tasks and improve workflow efficiency.  
+These projects reflect my interest in making technology practical and time-saving for real users.
+
+---
+
+## What I’m Passionate About
+
+- Real-time computer vision systems
+- Human-centered AI and interface design
+- Python automation for productivity
+- Practical problem-solving through code
+- Building tools that help people in everyday life
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://github-readme-stats.vercel.app/api?username=envydot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <strong>Computer Vision:</strong><br>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-<p align="center">
-  <strong>Tools & Frameworks:</strong><br>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Creations
-
-<details open>
-  <summary><strong>✨ Click to explore my projects</strong></summary>
-
-| # | Project | Purpose | Tech |
-|---|---------|---------|------|
-| 1️⃣ | **Virtual Drawing Board** | Draw in the air with hand tracking | OpenCV, MediaPipe, NumPy |
-| 2️⃣ | **Gesture Volume Control** | Real-time audio control via gestures | Python, pycaw, Computer Vision |
-| 3️⃣ | **PPT Gesture Controller** | Presentation control with hand gestures | PyAutoGUI, MediaPipe |
-| 4️⃣ | **Drowsiness & Face Alert** | Safety detection system | Face Mesh, Real-time CV |
-| 5️⃣ | **Risk Analyzer Dashboard** | Data-driven risk analytics | Streamlit, Python |
-| 6️⃣ | **Automation Scripts** | Workflow efficiency tools | Python Automation |
-
-</details>
-
----
-
-## 🎨 What I'm Passionate About
-
-```python
-my_interests = {
-  "computer_vision": ["real-time systems", "gesture tracking", "face detection"],
-  "development": ["Python automation", "AI-assisted tools", "problem-solving"],
-  "design": ["human-centered AI", "intuitive interfaces", "practical solutions"],
-  "goal": "Build technology that helps people in everyday life"
-}
-```
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=envydot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=envydot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=envydot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -116,34 +91,10 @@ my_interests = {
 
 ---
 
-## 🔗 Connect With Me
+## Connect
 
-<p align="center">
-  <a href="https://envydot.github.io/envydot/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/biswoprakashdash/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rupbiswo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- 🌐 Portfolio: [Live Portfolio](https://envydot.github.io/envydot/)
+- 💼 LinkedIn: [linkedin.com/in/biswoprakashdash](https://www.linkedin.com/in/biswoprakashdash/)
+- 📧 Email: rupbiswo@gmail.com
 
-<p align="center">
-  <em>🎯 Open to internships, collaborations, and meaningful projects</em><br>
-  <em>Let's build something great together!</em>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/envydot">
-    <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repo-Click%20Here-yellow?style=flat-square" />
-  </a>
-</p>
-
+I’m open to internships, collaborations, and opportunities where I can build meaningful technology with real impact.
